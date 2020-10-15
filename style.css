@@ -1,0 +1,99 @@
+body{
+    font-family: Arial;
+    margin: 0;
+
+}
+
+nav{
+    height: 70px;
+    display: flex;
+}
+
+.secondary-block{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 177, 186);
+}
+a{
+    color: rgb(255, 255, 255);
+}
+nav h2{
+    margin: 0;
+    padding: 20px 0px 20px 15px;
+}
+nav ul{
+    display: flex;
+    margin: 0;
+    padding: 24px;
+    list-style: none;
+}
+nav li{
+    margin-left: 15px;
+}
+
+header{
+    text-align: center;
+    padding: 40px;
+}
+.content{
+    max-width: 90%;
+    margin: 0 auto;
+}
+header h2{
+    color: rdg(4, 177, 186);
+}
+header img{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px, 3px, 6px rdg(170, 170, 170);
+}
+section{
+    padding: 40px;
+}
+
+#xp ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+#xp li{
+    margin-bottom: 10px;
+}
+#xp aside{
+    float: right;
+}
+#chat ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+#chat li{
+    margin-bottom: 10px;
+}
+#chat aside{
+    float: right;
+}
+footer{
+    padding: 40px;
+}
+footer ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.link{
+    margin: 25px;
+    width: 290px;
+    display: inline-block;
+}
+#xp .content h3{
+    text-align: center;
+    color: rgb(4, 177, 186);
+}
+#chat .content h5{
+    text-align: center;
+}
+.content h3{
+    text-align: center;
+    color: rgb(4, 177, 186);
+}
+ 
